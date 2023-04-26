@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "JobsGameMode": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\HP\\Desktop\\samp037_svr_R2-1-1_win32\\samp-server.exe",
+      "workingDirectory": "C:\\Users\\HP\\Desktop\\samp037_svr_R2-1-1_win32"
+    }
+  }
+}
